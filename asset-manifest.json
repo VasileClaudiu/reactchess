@@ -1,26 +1,26 @@
 {
   "files": {
     "main.css": "/reactchess/static/css/main.d40875cc.chunk.css",
-    "main.js": "/reactchess/static/js/main.bfba994c.chunk.js",
-    "main.js.map": "/reactchess/static/js/main.bfba994c.chunk.js.map",
+    "main.js": "/reactchess/static/js/main.98cce2e6.chunk.js",
+    "main.js.map": "/reactchess/static/js/main.98cce2e6.chunk.js.map",
     "runtime-main.js": "/reactchess/static/js/runtime-main.3d971388.js",
     "runtime-main.js.map": "/reactchess/static/js/runtime-main.3d971388.js.map",
     "static/css/2.626ba846.chunk.css": "/reactchess/static/css/2.626ba846.chunk.css",
-    "static/js/2.47963ae6.chunk.js": "/reactchess/static/js/2.47963ae6.chunk.js",
-    "static/js/2.47963ae6.chunk.js.map": "/reactchess/static/js/2.47963ae6.chunk.js.map",
+    "static/js/2.2893ccb1.chunk.js": "/reactchess/static/js/2.2893ccb1.chunk.js",
+    "static/js/2.2893ccb1.chunk.js.map": "/reactchess/static/js/2.2893ccb1.chunk.js.map",
     "static/js/3.71b2d188.chunk.js": "/reactchess/static/js/3.71b2d188.chunk.js",
     "static/js/3.71b2d188.chunk.js.map": "/reactchess/static/js/3.71b2d188.chunk.js.map",
     "index.html": "/reactchess/index.html",
     "static/css/2.626ba846.chunk.css.map": "/reactchess/static/css/2.626ba846.chunk.css.map",
     "static/css/main.d40875cc.chunk.css.map": "/reactchess/static/css/main.d40875cc.chunk.css.map",
-    "static/js/2.47963ae6.chunk.js.LICENSE.txt": "/reactchess/static/js/2.47963ae6.chunk.js.LICENSE.txt",
+    "static/js/2.2893ccb1.chunk.js.LICENSE.txt": "/reactchess/static/js/2.2893ccb1.chunk.js.LICENSE.txt",
     "static/media/font-awesome.min.css": "/reactchess/static/media/fontawesome-webfont.f691f37e.woff"
   },
   "entrypoints": [
     "static/js/runtime-main.3d971388.js",
     "static/css/2.626ba846.chunk.css",
-    "static/js/2.47963ae6.chunk.js",
+    "static/js/2.2893ccb1.chunk.js",
     "static/css/main.d40875cc.chunk.css",
-    "static/js/main.bfba994c.chunk.js"
+    "static/js/main.98cce2e6.chunk.js"
   ]
 }
