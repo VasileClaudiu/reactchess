@@ -4,12 +4,6 @@ object-assign
 @license MIT
 */
 
-/* @license
- * Copyright (c) 2018, Jeff Hlywa (jhlywa@gmail.com)
- * Released under the BSD license
- * https://github.com/jhlywa/chess.js/blob/master/LICENSE
- */
-
 /*!
     Copyright (c) 2016 Jed Watson.
     Licensed under the MIT License (MIT), see
